@@ -1,0 +1,14 @@
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\bin\Debug\net8.0\finalTaskOop.exe
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\bin\Debug\net8.0\finalTaskOop.deps.json
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\bin\Debug\net8.0\finalTaskOop.runtimeconfig.json
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\bin\Debug\net8.0\finalTaskOop.dll
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\bin\Debug\net8.0\finalTaskOop.pdb
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.GeneratedMSBuildEditorConfig.editorconfig
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.AssemblyInfoInputs.cache
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.AssemblyInfo.cs
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.csproj.CoreCompileInputs.cache
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.dll
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\refint\finalTaskOop.dll
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.pdb
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\finalTaskOop.genruntimeconfig.cache
+D:\on zero\My Second Home\Co.Net\the tasks\finalDemoOop\finalTaskOop\obj\Debug\net8.0\ref\finalTaskOop.dll

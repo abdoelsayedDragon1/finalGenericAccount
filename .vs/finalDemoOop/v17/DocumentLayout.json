@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\finaltaskoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|solutionrelative:finaltaskoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\finaltaskoop\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|solutionrelative:finaltaskoop\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\finaltaskoop\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|solutionrelative:finaltaskoop\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\finaltaskoop\\finaltaskoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D09C8682-E4E4-4990-BD95-5EEF68B65ED9}|finalTaskOop\\finalTaskOop.csproj|solutionrelative:finaltaskoop\\finaltaskoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\projectaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|solutionrelative:projectaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\projectaccount\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|solutionrelative:projectaccount\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\projectaccount\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|solutionrelative:projectaccount\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\projectaccount\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|solutionrelative:projectaccount\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\projectaccount\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|solutionrelative:projectaccount\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\projectaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E722F0C4-89C4-442E-AFB8-7FA45B701966}|ProjectAccount\\ProjectAccount.csproj|solutionrelative:projectaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdoc\\AppData\\Local\\Temp\\c08cc6d5-a94b-4288-8079-89e079ab8e50_D06 Eraasoft .Net 506.rar.e50\\D04 Eraasoft .Net 506\\code\\Demo\\Account\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdoc\\AppData\\Local\\Temp\\e3fee9b5-be2f-43e9-8afa-6456e74d0a49_D06 Eraasoft .Net 506.rar.a49\\D04 Eraasoft .Net 506\\code\\Demo\\Account\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdoc\\AppData\\Local\\Temp\\3150e41d-d9f0-440c-b07d-8a66a28a22bc_D05 Eraasoft .Net 506[2].rar.2bc\\D05 Eraasoft .Net 506\\code\\Demo\\Account2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C71383-DD7D-4B85-83D7-85E7E00EF70B}|Generic\\Generic.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\generic\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C71383-DD7D-4B85-83D7-85E7E00EF70B}|Generic\\Generic.csproj|solutionrelative:generic\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C71383-DD7D-4B85-83D7-85E7E00EF70B}|Generic\\Generic.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\generic\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C71383-DD7D-4B85-83D7-85E7E00EF70B}|Generic\\Generic.csproj|solutionrelative:generic\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C71383-DD7D-4B85-83D7-85E7E00EF70B}|Generic\\Generic.csproj|d:\\on zero\\my second home\\co.net\\the tasks\\finaldemooop\\generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C71383-DD7D-4B85-83D7-85E7E00EF70B}|Generic\\Generic.csproj|solutionrelative:generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "finalTaskOop",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\finalTaskOop.csproj",
+              "RelativeDocumentMoniker": "finalTaskOop\\finalTaskOop.csproj",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\finalTaskOop.csproj",
+              "RelativeToolTip": "finalTaskOop\\finalTaskOop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T10:21:20.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectAccount\\Program.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\Program.cs",
+              "RelativeToolTip": "ProjectAccount\\Program.cs",
+              "ViewState": "AQIAAB8AAABQZmZmZmYiwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:56:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "ProjectAccount\\TrustAccount.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\TrustAccount.cs",
+              "RelativeToolTip": "ProjectAccount\\TrustAccount.cs",
+              "ViewState": "AQIAABgAAACgMjMzMzMnwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:24:44.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "ProjectAccount\\CheckingAccount.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\CheckingAccount.cs",
+              "RelativeToolTip": "ProjectAccount\\CheckingAccount.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:11:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\Account.cs",
+              "RelativeDocumentMoniker": "finalTaskOop\\Account.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\Account.cs",
+              "RelativeToolTip": "finalTaskOop\\Account.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:23:43.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "finalTaskOop\\AccountUtil.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\AccountUtil.cs",
+              "RelativeToolTip": "finalTaskOop\\AccountUtil.cs",
+              "ViewState": "AQIAAA4AAACAlpmZmZnpvxsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:55:26.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\Program.cs",
+              "RelativeDocumentMoniker": "finalTaskOop\\Program.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\finalTaskOop\\Program.cs",
+              "RelativeToolTip": "finalTaskOop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:13:34.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "ProjectAccount\\SavingAccount.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\SavingAccount.cs",
+              "RelativeToolTip": "ProjectAccount\\SavingAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:41:08.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "ProjectAccount\\AccountUtil.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\AccountUtil.cs",
+              "RelativeToolTip": "ProjectAccount\\AccountUtil.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:14:25.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\Account.cs",
+              "RelativeDocumentMoniker": "ProjectAccount\\Account.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\ProjectAccount\\Account.cs",
+              "RelativeToolTip": "ProjectAccount\\Account.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:11:51.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdoc\\AppData\\Local\\Temp\\3150e41d-d9f0-440c-b07d-8a66a28a22bc_D05 Eraasoft .Net 506[2].rar.2bc\\D05 Eraasoft .Net 506\\code\\Demo\\Account2\\Program.cs",
+              "ToolTip": "C:\\Users\\abdoc\\AppData\\Local\\Temp\\3150e41d-d9f0-440c-b07d-8a66a28a22bc_D05 Eraasoft .Net 506[2].rar.2bc\\D05 Eraasoft .Net 506\\code\\Demo\\Account2\\Program.cs [Read Only]",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:09:36.057Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\abdoc\\AppData\\Local\\Temp\\e3fee9b5-be2f-43e9-8afa-6456e74d0a49_D06 Eraasoft .Net 506.rar.a49\\D04 Eraasoft .Net 506\\code\\Demo\\Account\\Account.cs",
+              "ToolTip": "C:\\Users\\abdoc\\AppData\\Local\\Temp\\e3fee9b5-be2f-43e9-8afa-6456e74d0a49_D06 Eraasoft .Net 506.rar.a49\\D04 Eraasoft .Net 506\\code\\Demo\\Account\\Account.cs [Read Only]",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:47:34.107Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdoc\\AppData\\Local\\Temp\\c08cc6d5-a94b-4288-8079-89e079ab8e50_D06 Eraasoft .Net 506.rar.e50\\D04 Eraasoft .Net 506\\code\\Demo\\Account\\Program.cs",
+              "ToolTip": "C:\\Users\\abdoc\\AppData\\Local\\Temp\\c08cc6d5-a94b-4288-8079-89e079ab8e50_D06 Eraasoft .Net 506.rar.e50\\D04 Eraasoft .Net 506\\code\\Demo\\Account\\Program.cs [Read Only]",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:54:16.199Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\Generic\\Account.cs",
+              "RelativeDocumentMoniker": "Generic\\Account.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\Generic\\Account.cs",
+              "RelativeToolTip": "Generic\\Account.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:55:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\Generic\\Helper.cs",
+              "RelativeDocumentMoniker": "Generic\\Helper.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\Generic\\Helper.cs",
+              "RelativeToolTip": "Generic\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:47:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Generic\\Program.cs",
+              "ToolTip": "D:\\on zero\\My Second Home\\Co.Net\\the tasks\\finalDemoOop\\Generic\\Program.cs",
+              "RelativeToolTip": "Generic\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA6wAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:42:36.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
